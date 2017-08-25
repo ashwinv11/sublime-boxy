@@ -1,0 +1,74 @@
+{
+  "name": "Boxy Tomorrow Burns",
+  "semanticClass": "boxy.tomorrow.dark",
+  "uuid": "21bb5fd7-098f-4cdd-86d7-f0b1a4a508ff",
+  "ui": {
+    "id": "tomorrow",
+    "variant": {
+      "id": "dark",
+      "name": "Dark",
+      "highlight": {
+        "hex": "#ffffff",
+        "rgb": "255, 255, 255"
+      }
+    },
+    "background": {
+      "base": {
+        "hex": "#1d1f21",
+        "rgb": "29, 31, 33"
+      },
+      "primary": {
+        "hex": "#232426",
+        "rgb": "35, 36, 38"
+      },
+      "secondary": {
+        "hex": "#2a2b2d",
+        "rgb": "42, 43, 45"
+      }
+    },
+    "foreground": {
+      "default": {
+        "hex": "#919293",
+        "rgb": "145, 146, 147"
+      },
+      "highlighted": {
+        "hex": "#b2b3b3",
+        "rgb": "178, 179, 179"
+      },
+      "disabled": {
+        "hex": "#707072",
+        "rgb": "112, 112, 114"
+      },
+      "selected": {
+        "hex": "#dddede",
+        "rgb": "221, 222, 222"
+      }
+    }
+  },
+  "scheme": {
+    "background": "#232426",
+    "caret": "#C5C8C6",
+    "foreground": "#C5C8C6",
+    "gutter": "#232426",
+    "comment": "#9E9E9E",
+    "base": {
+      "white": "#FFFFFF",
+      "black": "#000000",
+      "red": "#DB6161",
+      "orange": "#F15858",
+      "yellow": "#FF7272",
+      "green": "#C96363",
+      "cyan": "#CA8C8C",
+      "blue": "#CA8181",
+      "purple": "#C79898",
+      "violet": "#DB6161"
+    }
+  },
+  "extras": {
+    "plainTasks": {
+      "name": "Plain Tasks",
+      "semanticClass": "boxy.tomorrow.dark.plain.tasks",
+      "uuid": "fbc4437b-7061-4481-877f-0e6f82dda51d"
+    }
+  }
+}
